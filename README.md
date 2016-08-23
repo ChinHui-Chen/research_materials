@@ -4,6 +4,7 @@ This repo is designed for storing the information retrieval, data mining, machin
 
 Folder structure is listed as following:
 
-   * /research_paper
+   * /research_paper: storing my co-work research paper
+      
 
 
